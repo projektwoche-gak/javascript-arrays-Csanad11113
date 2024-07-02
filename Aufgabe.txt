@@ -1,0 +1,10 @@
+Ich habe dir ein Array namens planets zur Verfügung gestellt. Leider bin ich kein schlauer Mensch, der nicht viel über unser Sonnensystem weiß, und ich habe einige Fehler gemacht.
+Bitte hilf mir, das planets-Array zu korrigieren! Verwende die Array-Methoden, die wir gerade gelernt haben...
+
+    Entferne das erste Element, „The Moon“, aus dem planets-Array. Der Mond ist kein Planet!
+    Füge „Saturn“ am Ende des planets-Arrays hinzu.
+    Füge „Merkur“ als erstes Element in das planets-Array ein.
+
+Am Ende deiner harten Arbeit sollte planets so aussehen: ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
+
+(Dieses Beispiel ist sehr leicht zu betrügen. Bitte verwende die Array-Methoden, die wir gerade behandelt haben, anstatt die Werte in planets direkt zu ändern.)
